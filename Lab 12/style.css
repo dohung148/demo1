@@ -1,0 +1,24 @@
+/* * {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+} */
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(image/hinh-nen-dong-anime-cho-may-tinh-001.jpg);
+  height: 32rem;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(image/hinh-nen-may-tinh.jpg);
+  height: 32rem;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(image/tai-hinh-nen-vu-tru-cho-may-tinh-1-2.jpg);
+  height: 32rem;
+}
